@@ -1,0 +1,2 @@
+# sourceTreeDemo
+测试使用git的客户端的git项目clone到本地
